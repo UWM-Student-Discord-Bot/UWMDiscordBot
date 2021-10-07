@@ -24,7 +24,7 @@ Now that you have your branch we are going to clone it.  Most of you will use yo
 
 The only command you need is... "git clone [url]", execute this command in the directory you want the files copied to.
 
-Now you're all set to go editing and adding  code as you want.  One thing to note is that when opening the project for the first time I recommend making your <b>OWN</b> package for all your code to go into.  See [QUICKSTART](-QUICKSTART) for how to get started quickly, and see [PUSHING CHANGES](-PUSHING-CHANGES) to learn how to push your changes correctly.
+Now you're all set to go editing and adding  code as you want.  One thing to note is that when opening the project for the first time I recommend making your <b>OWN</b> package for all your code to go into.  See [QUICKSTART](QUICKSTART) for how to get started quickly, and see [PUSHING CHANGES](PUSHING-CHANGES) to learn how to push your changes correctly.
 
 
 # QUICKSTART
