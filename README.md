@@ -20,3 +20,13 @@ deploying, not pushing new changes.  DO NOT CREATE YOUR BRANCH FROM "master".
 
 YOU HAVE NOW SUCCESSFULLY CREATED YOUR OWN BRANCH FROM THE MOST RECENT CODE BASE :D.
 
+Now that you have your branch we are going to clone it.  Most of you will use your IDE to clone this branch, instructions for <a href="">IntelliJ</a> and <a href="">Eclipse</a>.  Those of you who do not use those two IDEs you'll either have to figure it out, or you can use the git command line (My personal favorite).
+
+The only command you need is... "git clone [url]", execute this command in the directory you want the files copied to.
+
+Now you're all set to go editing and adding  code as you want.  One thing to note is that when opening the project for the first time I recommend making your <b>OWN</b> package for all your code to go into.  See [QUICKSTART](-QUICKSTART) for how to get started quickly, and see [PUSHING CHANGES](-PUSHING-CHANGES) to learn how to push your changes correctly.
+
+
+# QUICKSTART
+
+# PUSHING CHANGES
