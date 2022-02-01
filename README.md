@@ -1,5 +1,5 @@
 # SETUP
-Welcome to the UWM Discord Bot project,  I'm sure this is the first time most of you have actually used github and contributed to a project, so we'll go over a few things.
+Welcome to the UWM Discord Bot project,  This might be the first time you have actually used github and contributed to a project, so we'll go over a few things.
 
 First a few rules to note:
 1. The master branch should ALWAYS BUILD AND BE DEPLOYABLE WITH NO ERRORS.
